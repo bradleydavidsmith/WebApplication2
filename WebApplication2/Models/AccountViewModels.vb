@@ -3,7 +3,7 @@
 Public Class ExternalLoginConfirmationViewModel
     <Required>
     <Display(Name:="Email")>
-    Public Property Email As String
+     Public Property Email As String
 
     <Display(Name:="Hometown")>
     Public Property Hometown As String
